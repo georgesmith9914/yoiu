@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-deco{
+    background-image: linear-gradient(to right, rgba(65,230,192) , rgba(9,80,98));
+    border-radius: 40px;
+    border: none;
+}
+
+.jumbotron{
+    background-image: url("images/main1.jpg");
+    background-size: cover;
+    height:600px;
+
+}
+.btn-deco{
+    margin-top: 2rem;
+    background-color: #3AA191;
+    border:none;
+
+}
+
+.bg-color{
+    background-color: #3AA191;
+}
+#img-section img{
+    border-radius: 5px;
+    width: 300px;
+    height: 250px;
+
+}
+
+ #footer-section .container-fluid{
+     height:200px;
+     background-color:#0A4F4B;
+     line-height: 200px;  
+     border-top: 1px solid; 
+     
+    }
+
+    #footer-section .container-fluid a{
+        margin-right: 1rem;
+        color:white;
+      }
